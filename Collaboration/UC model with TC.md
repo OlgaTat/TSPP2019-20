@@ -2,8 +2,6 @@
 # Опис моделі варіантів використання програми
 
 
-
-
 Структура моделі описана у завданні [Task]
 
 ### Що роботи
@@ -64,5 +62,5 @@ $ gulp build dist --prod
 [//]: # (Нижче наведені посилання, які використовуються в тексті)
 
 
-   [Task]: <>
+   [Task]: <https://mix.sumdu.edu.ua/study/forum/185/show/413761?init_from=413761>
    [UCDiagram]: <https://drive.google.com/file/d/1w1u7GFtjviYnltZdpP4IRn0Mg9JNp6aR/view?usp=sharing>
