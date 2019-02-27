@@ -44,5 +44,5 @@
 [//]: # (Нижче наведені посилання, які використовуються в тексті)
 
 
-   [Task]: <https://mix.sumdu.edu.ua/study/forum/185/show/413761?init_from=413761>
+   [Task]: <https://mix.sumdu.edu.ua/study_tools/drop/start/426513?referer=https%3A%2F%2Fmix.sumdu.edu.ua%2Ftextbooks%2F2957%2Findex.html>
    [UCDiagram]: <https://drive.google.com/file/d/1w1u7GFtjviYnltZdpP4IRn0Mg9JNp6aR/view?usp=sharing>
